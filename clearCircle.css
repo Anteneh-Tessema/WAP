@@ -1,0 +1,169 @@
+tr>td {
+    font-weight: bold;
+    text-align: right;
+    color: saddlebrown;
+}
+input[type="number"] {
+    border-color: bisque;
+    color: blueviolet;
+}
+
+#fields
+{
+    position: fixed;
+    bottom:10px;
+    left: 10px;
+}
+#footer
+{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+}
+.circle {
+    position: absolute;
+    top:10px;
+    left: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50px;
+    height: 50px;
+    border: 2px solid brown;
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*label {
+  text-align: right;
+  width: 150px;
+  display: inline-block;
+}
+#operations {
+  margin-left: 150px;
+  margin-bottom: 15px;
+}
+#main {
+  position: relative;
+
+}
+body, #main, #operations {
+  
+  position: relative;
+  
+  margin: 2px;
+  padding: 2px;
+}
+
+#movable {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: blue;
+    position: absolute;
+}*/
